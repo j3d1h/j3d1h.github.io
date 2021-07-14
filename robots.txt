@@ -1,0 +1,14 @@
+#   __   __)                                               /
+#  (, ) /  ,       /) /)        /)       /)        /) /)  /
+#    /(     __   _(/ //        //     _ (/_    ___// //  /
+# ) /  \__(_/ (_(_(_(/_ (_/_  /(_(_(_(__/(__  (_)/(_/(_ o
+#(_/                   .-/   /)                 /) /)
+#                     (_/   (/                 (/ (/
+
+#No, but seriously, fuck off.
+User-agent: *
+Disallow: /
+
+#...Except you, Wayback Machine.
+User-agent: ia_archiver
+Allow: /
